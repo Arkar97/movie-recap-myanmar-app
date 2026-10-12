@@ -1,0 +1,17 @@
+{
+  "ffmpeg_path": "",
+  "ffprobe_path": "",
+  "python_path": "",
+  "max_video_speed": 1.25,
+  "translation_batch_max_items": 40,
+  "atomic_target_duration": 4.2,
+  "atomic_max_duration": 5.6,
+  "translation_audit": true,
+  "title_font_path": "C:\\Windows\\Fonts\\mmrtext.ttf",
+  "overlay_blur_strength": 18,
+  "output_ratio": "16:9",
+  "output_formats": ["16:9", "9:16", "1:1", "Original"],
+  "voice_name": "my-MM-ThihaNeural",
+  "voice_speed": "0%",
+  "gemini_model": "gemini-2.5-flash"
+}
